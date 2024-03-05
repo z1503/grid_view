@@ -17,7 +17,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-
 class GridItem extends StatelessWidget {
   final Item item;
 
